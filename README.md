@@ -1,3 +1,5 @@
+![GoBarber](docs/cover.jpg?raw=true 'GoBarber')
+
 # GoBarber
 
 React Native project developed at the GoStack bootcamp. Mobile version of the application for barber shop appointments.
