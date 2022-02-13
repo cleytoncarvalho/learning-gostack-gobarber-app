@@ -1,10 +1,12 @@
 ![GoBarber](docs/cover.jpg?raw=true 'GoBarber')
 
-# GoBarber
+# Learning - React Native
 
-React Native project developed at the GoStack bootcamp. Mobile version of the application for barber shop appointments.
+:us: Project part of the bootcamp Gostack from Rocketseat. Mobile version of the application for barber shop appointments.
 
-Techs:
+:brazil: Projeto parte do bootcamp Gostack da Rocketseat. Versão móvel da aplicação para agendar serviços de barbearia.
+
+:toolbox: Used in this project:
 
 - React Native
 - React Navigation
